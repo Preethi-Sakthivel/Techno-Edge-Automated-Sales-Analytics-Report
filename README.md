@@ -94,7 +94,8 @@ ________________________________________
 
 Demos:
 
-[Dashboard Preview].()
+[Dashboard Preview].(![image](https://github.com/user-attachments/assets/63b9940e-f3e4-4cba-9a57-0a2077d37406)
+)
 
 
 
