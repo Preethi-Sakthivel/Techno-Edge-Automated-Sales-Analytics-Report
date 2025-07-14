@@ -1,6 +1,8 @@
-# Techno-Edge-Automated-Sales-Analytics-Report
+# Techno-Edge-Automated-Sales-Analytics-Report | Power BI, Power Query, ETL, Excel |
+
 
 ![image](https://github.com/user-attachments/assets/6b16fb82-9031-4279-ba9a-3a72fd642140)
+
 
 Automated Email-Based Sales Reporting Dashboard 
 
@@ -13,11 +15,12 @@ ________________________________________
 
 The company incurred significant time and cost (estimated at ₹3 million annually) due to repetitive manual workflows, which included:
 
-•	Hourly email data downloads from Outlook
+•  Hourly email data downloads from Outlook
 
-•	Manual cleaning and combining of data in Excel
+•  Manual cleaning and combining of data in Excel
 
-•	Creating visuals and manually sending performance numbers to stakeholders
+•  Creating visuals and manually sending performance numbers to stakeholders
+
 This inefficiency resulted in a loss of 240 working hours per person per year, or approximately 30 business days (1.25 months), leading to high operational overhead.
 ________________________________________
 
@@ -25,56 +28,57 @@ ________________________________________
 
 The scope included:
 
-•	Automating the extraction of Excel attachments from Outlook emails
+•  Automating the extraction of Excel attachments from Outlook emails
 
-•	Filtering, cleaning, and transforming unstructured email data
+•  Filtering, cleaning, and transforming unstructured email data
 
-•	Appending new data dynamically without user input
+•  Appending new data dynamically without user input
 
-•	Developing a dynamic dashboard for sales insights (by customer, region, product, etc.)
+•  Developing a dynamic dashboard for sales insights (by customer, region, product, etc.)
 
-•	Publishing and scheduling email delivery of reports via Power BI Service
+•  Publishing and scheduling email delivery of reports via Power BI Service
 ________________________________________
 
 ✅Key Goals:
 
-•	Eliminate manual intervention in daily data operations
+•  Eliminate manual intervention in daily data operations
 
-•	Ensure 100% data accuracy and consistency in reports
+•  Ensure 100% data accuracy and consistency in reports
 
-•	Enable instant decision-making through real-time dashboards
+•  Enable instant decision-making through real-time dashboards
 
-•	Build a scalable and reusable automation model
+•  Build a scalable and reusable automation model
 ________________________________________
 
 🏆Quantifiable Achievements:
 
-•	90% reduction in manual reporting effort
+•  Resulted in estimated cost savings of ₹1 lakh (~$1,200) per user annually and 4–5 months of organizational effort saved per year.
 
-•	~30 working days saved per user annually
+•  Reduced 240 hours/year per analyst previously spent on manual data extraction and transformation (equivalent to 30 working days or 1.25 months per employee).
 
-•	Email integration automated for hourly data refresh
+•  Enabled automated email parsing using dynamic subject filtering, file type filtering, and transformation functions, cutting report turnaround time from 60 minutes to <20 minutes.
 
-•	Real-time dashboards delivered via Power BI mobile and web apps
+•  90% reduction in manual reporting effort
 
-•	End-to-end process completion time reduced from hours to under 20 minutes
+•  ~30 working days saved per user annually
+
+•  Email integration automated for hourly data refresh
+
+•  Real-time dashboards delivered via Power BI mobile and web apps
+
+•  End-to-end process completion time reduced from hours to under 20 minutes
 ________________________________________
 
 💻Key Deliverables:
 
-1.	Power BI Dashboard: Dynamic, filter-enabled, mobile-accessible dashboard for sales metrics (by region, customer, profit margin).
-	
-2. Automated Data Pipeline:
+•  Led an end-to-end Power BI automation project for a leading Fintech company, integrating Microsoft Exchange to ingest ~36 structured Excel attachments monthly from Outlook without manual downloads, eliminating repetitive reporting workflows.
 
-o	Outlook rules for sorting emails
+•  Automated extraction, transformation, and loading (ETL) using Power Query, converting unstructured email data into structured tabular reports; reduced data prep time.
 
-o	Power BI Exchange Online connector for live email data ingestion
+•  Built an interactive Power BI sales dashboard analyzing metrics like revenue, profit, discount, and quantity by customer, country, and region; enabled real-time insights through scheduled email refreshes and mobile-accessible reports.
 
-o	Power Query transformations for file filtering, content extraction, and data modeling
+•  Integrated subscription-based delivery in Power BI Service to auto-email key stakeholders daily reports, replacing Excel-based static reporting and enabling faster decision-making across departments.
 
-3.	Self-updating Reports: Using Power BI Service to refresh datasets and auto-send reports to stakeholders on a scheduled basis.
-   
-5.	Advanced Visuals: Integration of third-party visuals like live scrollers for key figures (e.g., top-performing cities/products).
 ________________________________________
 
 ⚙️Tools & Technologies Used:
@@ -91,11 +95,6 @@ ________________________________________
 
 •	Power BI Mobile App for cross-platform accessibility
 ________________________________________
-
-Demos:
-
-[Dashboard Preview].(![image](https://github.com/user-attachments/assets/63b9940e-f3e4-4cba-9a57-0a2077d37406)
-)
 
 
 
